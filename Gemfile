@@ -14,6 +14,8 @@ gem 'sqlite3'
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+# Use Foundation for CSS framework
+gem 'foundation-rails'
 # Use HAML for the templating language
 gem 'haml'
 # Use HAML-RAILS to replace scaffold generator defaults.
