@@ -16,6 +16,8 @@ gem 'puma', '~> 3.0'
 gem 'sass-rails', '~> 5.0'
 # Use HAML for the templating language
 gem 'haml'
+# Use HAML-RAILS to replace scaffold generator defaults.
+gem "haml-rails", "~> 0.9" # CAUTION MAY NEED TO BRANCH GEM
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
